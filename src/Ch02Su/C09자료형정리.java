@@ -1,4 +1,4 @@
-package CH025u;
+package Ch02Su;
 
 public class C09자료형정리 {
 	public static void main(String[] args) {

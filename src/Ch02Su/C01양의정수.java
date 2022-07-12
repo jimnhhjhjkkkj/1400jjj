@@ -1,4 +1,4 @@
-package CH025u;
+package Ch02Su;
 
 public class C01양의정수 {
 
