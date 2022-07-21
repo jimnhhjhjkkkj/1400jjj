@@ -1,7 +1,5 @@
 package Ch09ClassicBasic;
 
-import Ch09ClassBasic.Rectangle;
-
 //다음 멤버를 가지고 직사각형을 표현하는 Rectangle 클래스를 작성하라.
 //
 //- int 타입의 x, y, width, height 필드: 사각형을 구성하는 점과 크기 정보
